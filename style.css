@@ -1,9 +1,9 @@
 :root {
     --color-principal:#FFFEF9;
     --color-secundario:#F2CC79;
-    --color-terciario:#EE925D;
-    --color-cuarto:#51C0E7;
-    --color-quinto:#C5F2E1;
+    --color-terciario:#EFB992;
+    --color-cuarto:#b3dae2;
+    --color-quinto:#B1CFB7;
     
     --font-principal:'Schoolbell', cursive;
     --font-secundaria:'Nunito Sans', sans-serif;
@@ -102,7 +102,7 @@ header .header-info {
     justify-content: center;
     text-align: center;
     gap: -3px;
-    padding-top: 100px;
+    padding-bottom: 80px;
 }
 .infoimportante a {
     margin: 0px 0 0 0;
@@ -427,7 +427,7 @@ footer img {
        
     }
     .infoimportante img {
-        width: 70%;
+        width: 80%;
     }
     .segundo {
         background-color: var(--color-terciario);
